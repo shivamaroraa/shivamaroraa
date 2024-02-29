@@ -5,4 +5,3 @@
 
 ![](https://komarev.com/ghpvc/?username=shivamaroraa)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
