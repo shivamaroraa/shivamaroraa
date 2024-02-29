@@ -6,8 +6,3 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=shivamaroraa.shivamaroraa)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-
-![Coding](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
